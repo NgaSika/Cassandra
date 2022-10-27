@@ -1,0 +1,4 @@
+Datetime(UTC +09) : 2021-12-02 15:24:46.791301+09:00
+system info : posix.uname_result(sysname='Darwin', nodename='YudainoMacBook-Pro.local', release='20.6.0', version='Darwin Kernel Version 20.6.0: Mon Aug 30 06:12:21 PDT 2021; root:xnu-7195.141.6~3/RELEASE_X86_64', machine='x86_64')
+User identifiable : ozaki
+ozaki has Insert data.   Time= 2021-12-02 15:24:59.600058+09:00
